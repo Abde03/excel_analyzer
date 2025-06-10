@@ -44,7 +44,7 @@ def main():
         st.markdown("---")
         st.markdown("### 🆘 **Support**")
         st.markdown("Found a bug? Have suggestions?")
-        st.markdown("[Report Issues](https://github.com/abde03/excel-analyzer/issues)")
+        st.markdown("[Report Issues](https://github.com/Abde03/excel_analyzer/issues)")
     
 
     st.title("📊 Excel Data Analyzer")
