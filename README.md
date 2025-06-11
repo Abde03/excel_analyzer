@@ -42,11 +42,8 @@ streamlit run excel_analyzer.py
 
 ## 🌐 Live Demo
 
-Visit the live application: [Your App URL]
+Visit the live application: [https://excelanalyzer.streamlit.app/]
 
-## 📸 Screenshots
-
-[Add screenshots of your app here]
 
 ## 🔧 Usage
 
@@ -86,9 +83,6 @@ Visit the live application: [Your App URL]
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -106,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your.email@example.com or create an issue on GitHub.
+For support, email [Azzoui03dev@gmail.com] or create an issue on GitHub.
 
 ---
 
