@@ -87,9 +87,9 @@ Visit the live application: [https://excelanalyzer.streamlit.app/]
 ## 👨‍💻 Author
 
 **Your Name**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/abde03)
-- LinkedIn: [Your Profile](https://linkedin.com/in/abde1899)
+- Email: azzaoui03dev@gmail.com
+- GitHub: [@Abde03](https://github.com/abde03)
+- LinkedIn: [el-azzaoui](https://linkedin.com/in/el-azzaoui)
 
 ## 🙏 Acknowledgments
 
